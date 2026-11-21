@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MathSpace.Client/MathSpace.Client.csproj" />
+  <Project Path="MathSpace.Core/MathSpace.Core.csproj" />
+  <Project Path="MathSpace.Infrastructure/MathSpace.Infrastructure.csproj" />
+  <Project Path="MathSpace.Server/MathSpace.Server.csproj" />
+</Solution>
